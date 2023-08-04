@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 30px;
+    background-color: black;
+  }
+  
+  h1 {
+    color: #ffffff;
+  }
+  
+  #countdown {
+    font-size: 24px;
+  }
+  h2{
+    color: #a4eaff;
+  }
+  #countdown{
+    color: bisque;
+  }
+  img{
+    position: relative;
+    top: 100px;
+  }
+  h6{
+    color: #ffffff;
+  }
